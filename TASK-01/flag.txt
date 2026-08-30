@@ -1,0 +1,13 @@
+Terminal Voyage — Flags & Secret Outputs
+
+    Level 1 (Loguetown Reef): Running the fruit evaluation script on the executable text file unlocked the initial signature flag, yielding ONE_PIECE{GITO_GITO_NO_AWAKENING}.
+
+    Level 2 (Whiskey Peak): Inspecting the hidden Baroque Works cache and comparing the intercept feeds through diff exposed the timeline flag: BAROQUE_DIAL{SPLIT_TIMELINE_MISDIRECTION}.
+
+    Level 3 (Little Garden): Searching through the nested outpost archive inside the Wax Jungle revealed the first encrypted Poneglyph piece: KjY2MjF4bW0lKzYqNyBsIS0vbTAtJTcnL.
+
+    Level 4 (Water 7): Unpacking the Puffing Tom blueprint zip archives uncovered the second secret link fragment: SwnbzptDiM3JspvFiMuJ28PJzAlJ28VIzA=.
+
+    Level 5 (Enies Lobby): XOR decrypting the combined base64 fragments with key 0x42 decoded the hidden repository URL: [https://github.com/rogueone-x/Laugh-Tale-Merge-War](https://github.com/rogueone-x/Laugh-Tale-Merge-War).
+
+    Level 6 (Laugh Tale): Resolving the merge conflicts in the treasure key files allowed the victory script to execute, unlocking the final challenge flag: FLAG{The_Grand_Line_Remembers_Your_Commit}.

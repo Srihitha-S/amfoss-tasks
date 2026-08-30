@@ -1,4 +1,5 @@
 Terminal Voyage - Task 01 Solution Narrative
+
 Level 1: Loguetown Reef
 
 The challenge began by cloning the main GitHub repository onto the local machine and navigating directly into the project root directory. From there, I switched the repository state to the timeline branch and moved into the GrandLine/Loguetown_Reef working directory.
